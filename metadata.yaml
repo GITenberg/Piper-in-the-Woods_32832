@@ -1,0 +1,37 @@
+_repo: Piper-in-the-Woods_32832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dick, Philip K.
+    alias: Dick, Philip Kindred
+    birthdate: 1928
+    deathdate: 1982
+    gutenberg_agent_id: '33399'
+    url: http://www.gutenberg.org/2009/agents/33399
+    wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
+description: Earth doctor Henry Harris is tasked with the responsibility of examining
+  the men who return from missions across the galaxy. Travelers returning from Asteroid
+  Y-3 begin to exhibit strange psychosomatic symptoms -- specifically, they seem to
+  believe that they are plants. When this anomaly becomes an epidemic, Dr. Harris
+  travels to Asteroid Y-3, hoping to get to the bottom of things. Are the men suffering
+  from some kind of mass delusion, or have they stumbled across a hidden truth?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+title: Piper in the Woods
+url: http://www.gutenberg.org/ebooks/32832
